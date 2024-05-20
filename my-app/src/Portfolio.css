@@ -1,0 +1,45 @@
+/* src/Portfolio.css */
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.portfolio {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+.contact-info, section {
+  margin-bottom: 20px;
+}
+
+.contact-info p, section p {
+  color: #ddd;
+}
+
+.contact-info a {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.contact-info a:hover {
+  color: #ddd;
+}
+
+.contact-info a .fab {
+  margin-right: 8px;
+}
