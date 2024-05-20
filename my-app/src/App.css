@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(to right, #ff0000, #00ff00, #ffff00);
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
   color: white;
   font-family: Arial, sans-serif;
 }
@@ -38,6 +38,7 @@ body {
   max-width: 800px;
   margin: auto;
 }
+
 
 .navbar {
   position: fixed;
